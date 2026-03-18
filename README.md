@@ -4,6 +4,9 @@
 
 # Integrantes
 
+* Daniel Alexis Olaya Diaz - 134177
+* Ivan Martin Romero Martinez - 127486
+* Juan David Pérez Jimenez - 127680
 
 # Informe
 
