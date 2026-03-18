@@ -57,7 +57,7 @@ Para validar el código Verilog proporcionado, se analizan los flujos de señale
 
 #### 1.2 Diagrama
 
-
+![alt text](<Simulacion.jpeg>)
 ## Evidencias de implementación
 
 El código fuente implementado en lenguaje de descripción de hardware (HDL) refleja una estructura modular. Se destaca la instanciación de cuatro bloques de un bit, asegurando que el acarreo de salida de una etapa sea el acarreo de entrada de la siguiente, formando la cadena de acarreo necesaria para la operación de 4 bits.
