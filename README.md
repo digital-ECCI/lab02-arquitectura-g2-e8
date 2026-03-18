@@ -72,3 +72,5 @@ El código fuente implementado en lenguaje de descripción de hardware (HDL) ref
 
 
 ## Referencias
+
+- http://github.com/digital-ECCI/Arquitectura-de-procesadores/blob/main/labs/03_lab03/README.md
